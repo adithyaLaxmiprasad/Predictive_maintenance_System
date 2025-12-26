@@ -1,0 +1,8 @@
+Flask==2.2.2
+Werkzeug==2.2.3
+boto3
+joblib
+scikit-learn
+pandas
+numpy
+dotenv
