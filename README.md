@@ -123,7 +123,7 @@ Historical Trends: View sensor data logs over time to identify patterns.
 ##👨‍💻 Authors
 Final Year Engineering Project Team
 1. Adithya L -- github:https://github.com/adithyaLaxmiprasad
-2. Dasari Ushodaya ---
+2. Dasari Ushodaya -- github:https://github.com/Ushodaya07
 3. G Hruthik Reddy ---
 4. J V Akash ----
 -----
